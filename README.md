@@ -12,7 +12,9 @@
 #### （二）句型
 ##### 1. sth,doing sth
 - - -
-| 英语 | 中文 |
-|:----|:----|
-| I gotta get going | 我得准备离开了 |
-| I gotta get used to sth/doing sth| 我得适应...(/做...)
+| 英语 | 中文 | 例句 |
+|:----|:----|:----|
+| I've gotta get doing | 我得干...了 | I've gotta get going|
+| I've gotta get used to sth/doing sth| 我得适应...(/做...)| I've gotta get used to going Dutch|
+| I've gotta get sth | 我得得到（买、拿、偷）| I've gotta get a nicer house/extra plate/a life|
+| I've gotta get adj | 我得变得...| I've gotta get stronger/taller/(better/faster) at sth/doing sth|
