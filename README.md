@@ -38,8 +38,43 @@ serious   | 我得认真起来了
 stronger  | 我得变得更强壮
 healthier | 我得变得更健康
 
-#### (1) better at (sth/doing sth)
+#### (1) better/faster at (sth/doing sth)
 
-英文 | 中文
--- | --
-|
+英文      | 中文
+------- | --------------
+coding  | 我得更 擅长/快速 编写代码
+reading | 我得更 擅长/快速 阅读
+
+#### (2) more
+
+英文      | 中文
+------- | -------
+than it | 我需要更多这个
+done    | 我得赶进度
+
+#### (3) started (doing sth)
+
+英文                      | 中文
+----------------------- | -----------
+writing my report       | 我得赶紧开始报告
+working on my project   | 我得赶紧开始我的项目了
+analyzing these figures | 我得赶紧分析这些数据了
+
+#### (4) started prep (sth)
+
+英文                      | 中文
+----------------------- | -----------
+with my homework        | 我得赶紧写作业了
+before it too late      | 我得赶紧开始否则就完了
+on the wedding plans    | 我得赶紧筹备婚礼了
+by looking through this | 我得从忘掉这些开始
+
+#### (5) rid of (sth)
+
+英文             | 中文
+-------------- | --------
+him            | 我得干掉他
+the evidence   | 我得除掉这些证据
+the smell      | 我得弄掉这些味儿
+it             | 我的弄掉这个
+all this stuff | 我得把这些都剥除
